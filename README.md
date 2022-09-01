@@ -39,13 +39,15 @@ This repo is covered under the MIT License.
 <br>[License](https://choosealicense.com/licenses/mit/)
 
 # Demo
-[Demo Video](videolink) 
+[Demo Video - MP4](https://drive.google.com/file/d/1sddNFh42ZmY6JIeOh4m6SLMa3W6hWnvt/view?usp=sharing) 
+
+![Note Page](images/e-commerce-backend-video.gif)
 
 # Tests
 
 Initialize app using:
 ```shell
-node server.js
+node server.js or npm start
 ```
 APIs were tested using Insomnia:
 
